@@ -1,4 +1,4 @@
-# PLP-wk2-python-Nontuthuzelo49
+# PLP-wk3-python-Nontuthuzelo49
 ## Week 3 Assignment
 # Description
 
